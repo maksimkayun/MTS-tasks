@@ -1,0 +1,16 @@
+C:\Users\Dushevno\Desktop\Git\TestTasks\BeOrNotToBe\bin\Debug\net5.0\BeOrNotToBe.exe
+C:\Users\Dushevno\Desktop\Git\TestTasks\BeOrNotToBe\bin\Debug\net5.0\BeOrNotToBe.deps.json
+C:\Users\Dushevno\Desktop\Git\TestTasks\BeOrNotToBe\bin\Debug\net5.0\BeOrNotToBe.runtimeconfig.json
+C:\Users\Dushevno\Desktop\Git\TestTasks\BeOrNotToBe\bin\Debug\net5.0\BeOrNotToBe.runtimeconfig.dev.json
+C:\Users\Dushevno\Desktop\Git\TestTasks\BeOrNotToBe\bin\Debug\net5.0\BeOrNotToBe.dll
+C:\Users\Dushevno\Desktop\Git\TestTasks\BeOrNotToBe\bin\Debug\net5.0\ref\BeOrNotToBe.dll
+C:\Users\Dushevno\Desktop\Git\TestTasks\BeOrNotToBe\bin\Debug\net5.0\BeOrNotToBe.pdb
+C:\Users\Dushevno\Desktop\Git\TestTasks\BeOrNotToBe\obj\Debug\net5.0\BeOrNotToBe.csproj.AssemblyReference.cache
+C:\Users\Dushevno\Desktop\Git\TestTasks\BeOrNotToBe\obj\Debug\net5.0\BeOrNotToBe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dushevno\Desktop\Git\TestTasks\BeOrNotToBe\obj\Debug\net5.0\BeOrNotToBe.AssemblyInfoInputs.cache
+C:\Users\Dushevno\Desktop\Git\TestTasks\BeOrNotToBe\obj\Debug\net5.0\BeOrNotToBe.AssemblyInfo.cs
+C:\Users\Dushevno\Desktop\Git\TestTasks\BeOrNotToBe\obj\Debug\net5.0\BeOrNotToBe.csproj.CoreCompileInputs.cache
+C:\Users\Dushevno\Desktop\Git\TestTasks\BeOrNotToBe\obj\Debug\net5.0\BeOrNotToBe.dll
+C:\Users\Dushevno\Desktop\Git\TestTasks\BeOrNotToBe\obj\Debug\net5.0\ref\BeOrNotToBe.dll
+C:\Users\Dushevno\Desktop\Git\TestTasks\BeOrNotToBe\obj\Debug\net5.0\BeOrNotToBe.pdb
+C:\Users\Dushevno\Desktop\Git\TestTasks\BeOrNotToBe\obj\Debug\net5.0\BeOrNotToBe.genruntimeconfig.cache

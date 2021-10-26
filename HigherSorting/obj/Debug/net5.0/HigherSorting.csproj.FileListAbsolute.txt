@@ -1,0 +1,16 @@
+C:\Users\Dushevno\Desktop\Git\TestTasks\HigherSorting\bin\Debug\net5.0\HigherSorting.exe
+C:\Users\Dushevno\Desktop\Git\TestTasks\HigherSorting\bin\Debug\net5.0\HigherSorting.deps.json
+C:\Users\Dushevno\Desktop\Git\TestTasks\HigherSorting\bin\Debug\net5.0\HigherSorting.runtimeconfig.json
+C:\Users\Dushevno\Desktop\Git\TestTasks\HigherSorting\bin\Debug\net5.0\HigherSorting.runtimeconfig.dev.json
+C:\Users\Dushevno\Desktop\Git\TestTasks\HigherSorting\bin\Debug\net5.0\HigherSorting.dll
+C:\Users\Dushevno\Desktop\Git\TestTasks\HigherSorting\bin\Debug\net5.0\ref\HigherSorting.dll
+C:\Users\Dushevno\Desktop\Git\TestTasks\HigherSorting\bin\Debug\net5.0\HigherSorting.pdb
+C:\Users\Dushevno\Desktop\Git\TestTasks\HigherSorting\obj\Debug\net5.0\HigherSorting.csproj.AssemblyReference.cache
+C:\Users\Dushevno\Desktop\Git\TestTasks\HigherSorting\obj\Debug\net5.0\HigherSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dushevno\Desktop\Git\TestTasks\HigherSorting\obj\Debug\net5.0\HigherSorting.AssemblyInfoInputs.cache
+C:\Users\Dushevno\Desktop\Git\TestTasks\HigherSorting\obj\Debug\net5.0\HigherSorting.AssemblyInfo.cs
+C:\Users\Dushevno\Desktop\Git\TestTasks\HigherSorting\obj\Debug\net5.0\HigherSorting.csproj.CoreCompileInputs.cache
+C:\Users\Dushevno\Desktop\Git\TestTasks\HigherSorting\obj\Debug\net5.0\HigherSorting.dll
+C:\Users\Dushevno\Desktop\Git\TestTasks\HigherSorting\obj\Debug\net5.0\ref\HigherSorting.dll
+C:\Users\Dushevno\Desktop\Git\TestTasks\HigherSorting\obj\Debug\net5.0\HigherSorting.pdb
+C:\Users\Dushevno\Desktop\Git\TestTasks\HigherSorting\obj\Debug\net5.0\HigherSorting.genruntimeconfig.cache

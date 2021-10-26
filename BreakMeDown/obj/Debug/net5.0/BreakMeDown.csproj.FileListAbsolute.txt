@@ -1,0 +1,16 @@
+C:\Users\Dushevno\Desktop\Git\TestTasks\BreakMeDown\obj\Debug\net5.0\BreakMeDown.csproj.AssemblyReference.cache
+C:\Users\Dushevno\Desktop\Git\TestTasks\BreakMeDown\obj\Debug\net5.0\BreakMeDown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dushevno\Desktop\Git\TestTasks\BreakMeDown\obj\Debug\net5.0\BreakMeDown.AssemblyInfoInputs.cache
+C:\Users\Dushevno\Desktop\Git\TestTasks\BreakMeDown\obj\Debug\net5.0\BreakMeDown.AssemblyInfo.cs
+C:\Users\Dushevno\Desktop\Git\TestTasks\BreakMeDown\obj\Debug\net5.0\BreakMeDown.csproj.CoreCompileInputs.cache
+C:\Users\Dushevno\Desktop\Git\TestTasks\BreakMeDown\bin\Debug\net5.0\BreakMeDown.exe
+C:\Users\Dushevno\Desktop\Git\TestTasks\BreakMeDown\bin\Debug\net5.0\BreakMeDown.deps.json
+C:\Users\Dushevno\Desktop\Git\TestTasks\BreakMeDown\bin\Debug\net5.0\BreakMeDown.runtimeconfig.json
+C:\Users\Dushevno\Desktop\Git\TestTasks\BreakMeDown\bin\Debug\net5.0\BreakMeDown.runtimeconfig.dev.json
+C:\Users\Dushevno\Desktop\Git\TestTasks\BreakMeDown\bin\Debug\net5.0\BreakMeDown.dll
+C:\Users\Dushevno\Desktop\Git\TestTasks\BreakMeDown\bin\Debug\net5.0\ref\BreakMeDown.dll
+C:\Users\Dushevno\Desktop\Git\TestTasks\BreakMeDown\bin\Debug\net5.0\BreakMeDown.pdb
+C:\Users\Dushevno\Desktop\Git\TestTasks\BreakMeDown\obj\Debug\net5.0\BreakMeDown.dll
+C:\Users\Dushevno\Desktop\Git\TestTasks\BreakMeDown\obj\Debug\net5.0\ref\BreakMeDown.dll
+C:\Users\Dushevno\Desktop\Git\TestTasks\BreakMeDown\obj\Debug\net5.0\BreakMeDown.pdb
+C:\Users\Dushevno\Desktop\Git\TestTasks\BreakMeDown\obj\Debug\net5.0\BreakMeDown.genruntimeconfig.cache

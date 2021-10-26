@@ -1,0 +1,16 @@
+C:\Users\Dushevno\Desktop\Git\TestTasks\Operation\bin\Debug\net5.0\Operation.exe
+C:\Users\Dushevno\Desktop\Git\TestTasks\Operation\bin\Debug\net5.0\Operation.deps.json
+C:\Users\Dushevno\Desktop\Git\TestTasks\Operation\bin\Debug\net5.0\Operation.runtimeconfig.json
+C:\Users\Dushevno\Desktop\Git\TestTasks\Operation\bin\Debug\net5.0\Operation.runtimeconfig.dev.json
+C:\Users\Dushevno\Desktop\Git\TestTasks\Operation\bin\Debug\net5.0\Operation.dll
+C:\Users\Dushevno\Desktop\Git\TestTasks\Operation\bin\Debug\net5.0\ref\Operation.dll
+C:\Users\Dushevno\Desktop\Git\TestTasks\Operation\bin\Debug\net5.0\Operation.pdb
+C:\Users\Dushevno\Desktop\Git\TestTasks\Operation\obj\Debug\net5.0\Operation.csproj.AssemblyReference.cache
+C:\Users\Dushevno\Desktop\Git\TestTasks\Operation\obj\Debug\net5.0\Operation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dushevno\Desktop\Git\TestTasks\Operation\obj\Debug\net5.0\Operation.AssemblyInfoInputs.cache
+C:\Users\Dushevno\Desktop\Git\TestTasks\Operation\obj\Debug\net5.0\Operation.AssemblyInfo.cs
+C:\Users\Dushevno\Desktop\Git\TestTasks\Operation\obj\Debug\net5.0\Operation.csproj.CoreCompileInputs.cache
+C:\Users\Dushevno\Desktop\Git\TestTasks\Operation\obj\Debug\net5.0\Operation.dll
+C:\Users\Dushevno\Desktop\Git\TestTasks\Operation\obj\Debug\net5.0\ref\Operation.dll
+C:\Users\Dushevno\Desktop\Git\TestTasks\Operation\obj\Debug\net5.0\Operation.pdb
+C:\Users\Dushevno\Desktop\Git\TestTasks\Operation\obj\Debug\net5.0\Operation.genruntimeconfig.cache
